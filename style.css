@@ -1,0 +1,11 @@
+#birthday{
+    border-radius: 10px;
+    background-color: lightgray;
+}
+body{
+    text-align: center;
+}
+#btn{
+    margin-top: 50px;
+    border-radius: 10px;
+}
